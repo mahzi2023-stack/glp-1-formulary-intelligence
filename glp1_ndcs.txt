@@ -1,0 +1,28 @@
+# GLP-1 RA NDC Codes for Test Products
+# Wegovy (semaglutide) - Obesity
+00169-4517 # 0.25mg
+00169-4530 # 0.5mg  
+00169-4574 # 1mg
+00169-4593 # 1.7mg
+00169-4764 # 2.4mg
+
+# Ozempic (semaglutide) - Diabetes
+00169-4060 # 0.25mg/0.5mg
+00169-3967 # 1mg
+00169-4823 # 2mg
+
+# Zepbound (tirzepatide) - Obesity  
+00002-4666 # 2.5mg
+00002-4667 # 5mg
+00002-4668 # 7.5mg
+00002-4669 # 10mg
+00002-4670 # 12.5mg
+00002-4671 # 15mg
+
+# Mounjaro (tirzepatide) - Diabetes
+00002-2300 # 2.5mg
+00002-2400 # 5mg
+00002-2500 # 7.5mg
+00002-2600 # 10mg
+00002-2700 # 12.5mg
+00002-2800 # 15mg

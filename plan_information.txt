@@ -1,0 +1,7 @@
+Contract_ID|Plan_ID|Plan_Name|Plan_Type|Organization_Name
+H1234|001|AARP Medicare Advantage Plan 1|MA-PD|UnitedHealthcare
+H1234|002|AARP Medicare Advantage Plan 2|MA-PD|UnitedHealthcare
+S5678|001|Humana Premier Rx Plan|PDP|Humana
+S5678|002|Humana Value Rx Plan|PDP|Humana
+H9999|001|Kaiser Permanente Senior Advantage|MA-PD|Kaiser Foundation
+S1111|001|Cigna Secure Rx|PDP|Cigna
